@@ -30,7 +30,7 @@ class Contact_Book:
         email = input("Enter the email : ")
         
         
-        whatsapp = input(" Is number connected to whatsapp  choose 1 or 23 ? \n1.yes\n2.no\n").lower()
+        whatsapp = input(" Is number connected to whatsapp  choose 1 or 2 ? \n1.yes\n2.no\n").lower()
         
         
         
@@ -217,3 +217,4 @@ while True:
 
         
 
+#
